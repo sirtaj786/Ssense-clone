@@ -82,6 +82,13 @@ Additional Features: Kept the fonts, colors and favicon and titles consistent th
 
 - Code optimization done by Suraj. 
 
+<h2>Some screenshots of our website:</h2>
+
+
+
+<img src="https://user-images.githubusercontent.com/101570740/190079062-3797734f-7e05-4a20-9de2-308208ffbac2.png"/>
+
+
 ## Learning
 - We all became proficient in reading the code of team members.
 
