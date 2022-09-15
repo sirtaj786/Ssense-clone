@@ -6,7 +6,7 @@ SSENSE is a multi-brand retailer based in Montreal, Canada specialising in the s
 
 ## About this project:
 This is a team project, built by us in the Construct Week - Unit 3 at Masai School.
-Deployed link of Netlify :https://lucky-fenglisu-6040cb.netlify.app/
+Deployed link of Netlify :https://ssense-6040cb.netlify.app/
 ## Team Members ❤️
 
 - [Suraj Dongre](https://www.github.com/surajDongre-16)
@@ -32,6 +32,18 @@ Order Successful: Order successful message will be displayed over the screen and
 
 Additional Features: Kept the fonts, colors and favicon and titles consistent throughtout the whole site to give a feel like the original site and also wishlist feature is added to give more real experience.
 
+
+## Screenshots
+- Homepage
+[![Screenshot-244.png](https://i.postimg.cc/tgJmSMBY/Screenshot-244.png)](https://postimg.cc/MckDXd2S)
+- Mens page
+[![Screenshot-245.png](https://i.postimg.cc/V6j9D9PJ/Screenshot-245.png)](https://postimg.cc/zbGRfgBN)
+- Womens page
+[![Screenshot-246.png](https://i.postimg.cc/LXMLYqg2/Screenshot-246.png)](https://postimg.cc/Y4bhTCxs)
+- Product page
+![Product page](https://mymasaibucket.s3.us-east-2.amazonaws.com/Screenshot+2022-08-19+205449.png)
+- Paypal Integration
+![Paypal Integration](https://mymasaibucket.s3.us-east-2.amazonaws.com/Screenshot+2022-08-19+205853.png)
 
 ## Tech Stack:
 
@@ -76,9 +88,11 @@ Additional Features: Kept the fonts, colors and favicon and titles consistent th
 
 - Shopping bag page is designed & functioned by Md Sahil Amaan.
 
-- Checkout page is desinged and functioned by Sharang.
+- Checkout page is designed and functioned by Sharang.
 
-- Wishlist function is desinged by Sharang.
+- Paypal payment method integrated by Sharang.
+
+- Wishlist function is designed by Sharang.
 
 - Code optimization done by Suraj. 
 
